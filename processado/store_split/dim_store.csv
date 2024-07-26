@@ -1,0 +1,633 @@
+Country,State,City,Region,Postal Code,storeId
+United States,Kentucky,Henderson,South,42420,STO-68D97E
+United States,California,Los Angeles,West,90036,STO-4D7F2D
+United States,Florida,Fort Lauderdale,South,33311,STO-34EECC
+United States,California,Los Angeles,West,90032,STO-9DE8DB
+United States,North Carolina,Concord,South,28027,STO-11A9B7
+United States,Washington,Seattle,West,98103,STO-EF96DA
+United States,Texas,Fort Worth,Central,76106,STO-9D7222
+United States,Wisconsin,Madison,Central,53711,STO-3853C8
+United States,Utah,West Jordan,West,84084,STO-B2A0AC
+United States,California,San Francisco,West,94109,STO-8E9979
+United States,Nebraska,Fremont,Central,68025,STO-F0AC2B
+United States,Pennsylvania,Philadelphia,East,19140,STO-81EACE
+United States,Utah,Orem,West,84057,STO-3A1037
+United States,California,Los Angeles,West,90049,STO-C8ED37
+United States,Texas,Houston,Central,77095,STO-DC5DFE
+United States,Texas,Richardson,Central,75080,STO-D07031
+United States,Texas,Houston,Central,77041,STO-47CA36
+United States,Illinois,Naperville,Central,60540,STO-8B7372
+United States,Florida,Melbourne,South,32935,STO-6B34B5
+United States,Minnesota,Eagan,Central,55122,STO-5A878B
+United States,Michigan,Westland,Central,48185,STO-EF1A08
+United States,Delaware,Dover,East,19901,STO-19D713
+United States,Indiana,New Albany,Central,47150,STO-B56559
+United States,New York,New York City,East,10024,STO-3EC14C
+United States,New York,Troy,East,12180,STO-5B3840
+United States,California,Los Angeles,West,90004,STO-9D8BB9
+United States,Illinois,Chicago,Central,60610,STO-F946EB
+United States,Arizona,Gilbert,West,85234,STO-60BD47
+United States,Virginia,Springfield,South,22153,STO-C633C4
+United States,New York,New York City,East,10009,STO-2596CD
+United States,Michigan,Jackson,Central,49201,STO-32BF2D
+United States,Tennessee,Memphis,South,38109,STO-67983C
+United States,Texas,Houston,Central,77070,STO-22CE70
+United States,Alabama,Decatur,South,35601,STO-C28EFF
+United States,California,San Francisco,West,94122,STO-3A6535
+United States,North Carolina,Durham,South,27707,STO-8458C0
+United States,Illinois,Chicago,Central,60623,STO-50D88A
+United States,South Carolina,Columbia,South,29203,STO-73C222
+United States,Minnesota,Rochester,Central,55901,STO-6388A7
+United States,Minnesota,Minneapolis,Central,55407,STO-7F5BA0
+United States,Oregon,Portland,West,97206,STO-5C714C
+United States,Minnesota,Saint Paul,Central,55106,STO-181FFD
+United States,Colorado,Aurora,West,80013,STO-E2FADE
+United States,North Carolina,Charlotte,South,28205,STO-7AD66A
+United States,Illinois,Orland Park,Central,60462,STO-EF31C8
+United States,New York,New York City,East,10035,STO-BB3185
+United States,Iowa,Urbandale,Central,50322,STO-A71977
+United States,Ohio,Columbus,East,43229,STO-BD0FE4
+United States,Tennessee,Bristol,South,37620,STO-8375B7
+United States,Delaware,Wilmington,East,19805,STO-C3DC3F
+United States,Illinois,Bloomington,Central,61701,STO-390882
+United States,Arizona,Phoenix,West,85023,STO-5E06D2
+United States,California,Roseville,West,95661,STO-A9E375
+United States,Missouri,Independence,Central,64055,STO-342FC4
+United States,California,Pasadena,West,91104,STO-001362
+United States,Ohio,Newark,East,43055,STO-975D00
+United States,Wisconsin,Franklin,Central,53132,STO-4DF080
+United States,Arizona,Scottsdale,West,85254,STO-CCB8FB
+United States,California,San Jose,West,95123,STO-0DF8CF
+United States,Washington,Seattle,West,98105,STO-6417E3
+United States,Washington,Seattle,West,98115,STO-9251B5
+United States,Oklahoma,Edmond,Central,73034,STO-50BCA1
+United States,California,Los Angeles,West,90045,STO-EEAFB0
+United States,Pennsylvania,Philadelphia,East,19134,STO-169989
+United States,New Mexico,Carlsbad,West,88220,STO-A7CFA3
+United States,Texas,San Antonio,Central,78207,STO-981CA9
+United States,Texas,Houston,Central,77036,STO-BE351D
+United States,Illinois,Decatur,Central,62521,STO-FC2FC2
+United States,Louisiana,Monroe,South,71203,STO-D2B2C9
+United States,Connecticut,Fairfield,East,6824,STO-B5A110
+United States,Texas,Grand Prairie,Central,75051,STO-C1DA09
+United States,California,Redlands,West,92374,STO-64F0E3
+United States,Ohio,Hamilton,East,45011,STO-133F2A
+United States,New Jersey,Westfield,East,7090,STO-93F1AC
+United States,Pennsylvania,Philadelphia,East,19120,STO-0ADD97
+United States,Ohio,Akron,East,44312,STO-2CAB4C
+United States,Colorado,Denver,West,80219,STO-9DDA31
+United States,Texas,Dallas,Central,75220,STO-DEB890
+United States,Tennessee,Franklin,South,37064,STO-0460E6
+United States,California,Whittier,West,90604,STO-78E4D8
+United States,Michigan,Saginaw,Central,48601,STO-4794FD
+United States,Ohio,Medina,East,44256,STO-E69B51
+United States,Ohio,Dublin,East,43017,STO-9E7E7C
+United States,Michigan,Detroit,Central,48227,STO-F3F1EA
+United States,Tennessee,Columbia,South,38401,STO-4FE553
+United States,Florida,Tampa,South,33614,STO-543AE2
+United States,California,Santa Clara,West,95051,STO-CEB45F
+United States,Minnesota,Lakeville,Central,55044,STO-525FF6
+United States,California,San Diego,West,92037,STO-6BC99B
+United States,Texas,Pasadena,Central,77506,STO-817869
+United States,California,Brentwood,West,94513,STO-0725E9
+United States,North Carolina,Chapel Hill,South,27514,STO-4AD97E
+United States,New Jersey,Morristown,East,7960,STO-E3B5D2
+United States,Ohio,Cincinnati,East,45231,STO-7AF3F0
+United States,California,San Francisco,West,94110,STO-758730
+United States,California,Inglewood,West,90301,STO-F0698B
+United States,Florida,Tamarac,South,33319,STO-8700ED
+United States,Colorado,Colorado Springs,West,80906,STO-C1CD3B
+United States,New Jersey,Belleville,East,7109,STO-40B797
+United States,Michigan,Taylor,Central,48180,STO-102F51
+United States,New Jersey,Lakewood,East,8701,STO-6C5B18
+United States,Virginia,Arlington,South,22204,STO-4282DE
+United States,Colorado,Arvada,West,80004,STO-3DABEC
+United States,New Jersey,Hackensack,East,7601,STO-EE05E3
+United States,Florida,Saint Petersburg,South,33710,STO-52EEF3
+United States,Pennsylvania,Philadelphia,East,19143,STO-FBCE9F
+United States,California,Long Beach,West,90805,STO-67D249
+United States,California,Hesperia,West,92345,STO-6E181F
+United States,Tennessee,Murfreesboro,South,37130,STO-70627C
+United States,Utah,Layton,West,84041,STO-F8DC4D
+United States,Texas,Austin,Central,78745,STO-D8390B
+United States,Massachusetts,Lowell,East,1852,STO-AE10C8
+United States,Georgia,Columbus,South,31907,STO-AFF0C2
+United States,Connecticut,Manchester,East,6040,STO-6180DF
+United States,Texas,Harlingen,Central,78550,STO-777F55
+United States,Arizona,Tucson,West,85705,STO-F45015
+United States,Illinois,Quincy,Central,62301,STO-ADE2E7
+United States,Massachusetts,Franklin,East,2038,STO-381502
+United States,Florida,Pembroke Pines,South,33024,STO-25A51F
+United States,Washington,Des Moines,West,98198,STO-2E77AB
+United States,Illinois,Peoria,Central,61604,STO-351D20
+United States,Nevada,Las Vegas,West,89115,STO-73F061
+United States,Rhode Island,Warwick,East,2886,STO-E8B185
+United States,Florida,Miami,South,33180,STO-E3C57C
+United States,North Carolina,Wilmington,South,28403,STO-02E843
+United States,California,Huntington Beach,West,92646,STO-56BA8B
+United States,Kentucky,Richmond,South,40475,STO-677639
+United States,Colorado,Louisville,West,80027,STO-4A5066
+United States,Massachusetts,Lawrence,East,1841,STO-B85619
+United States,Mississippi,Jackson,South,39212,STO-644443
+United States,Michigan,Canton,Central,48187,STO-D23CF2
+United States,New York,New Rochelle,East,10801,STO-B47E8A
+United States,North Carolina,Gastonia,South,28052,STO-6DC191
+United States,Florida,Jacksonville,South,32216,STO-E51621
+United States,Indiana,Columbus,Central,47201,STO-5C5B80
+United States,New York,Auburn,East,13021,STO-BAB7B2
+United States,Oklahoma,Norman,Central,73071,STO-FE0468
+United States,California,Concord,West,94521,STO-92499D
+United States,Illinois,Park Ridge,Central,60068,STO-913F28
+United States,Texas,Amarillo,Central,79109,STO-895FC1
+United States,New York,Lindenhurst,East,11757,STO-86FA04
+United States,California,Los Angeles,West,90008,STO-0AC8C9
+United States,California,San Diego,West,92024,STO-6B23C1
+United States,Texas,Huntsville,Central,77340,STO-A320D4
+United States,New York,Rochester,East,14609,STO-11E20E
+United States,Arkansas,Fayetteville,South,72701,STO-C3B93B
+United States,California,Costa Mesa,West,92627,STO-0C28BF
+United States,Colorado,Parker,West,80134,STO-1DB919
+United States,Georgia,Atlanta,South,30318,STO-694547
+United States,Missouri,Gladstone,Central,64118,STO-154FBC
+United States,Montana,Great Falls,West,59405,STO-880DB3
+United States,Michigan,Detroit,Central,48234,STO-50932F
+United States,Florida,Lakeland,South,33801,STO-2F467E
+United States,Alabama,Montgomery,South,36116,STO-F9A766
+United States,Arizona,Mesa,West,85204,STO-9C3F01
+United States,Illinois,Chicago,Central,60653,STO-ABAB68
+United States,Wisconsin,Green Bay,Central,54302,STO-2717A4
+United States,Ohio,Springfield,East,45503,STO-503151
+United States,California,Anaheim,West,92804,STO-B35E91
+United States,Washington,Marysville,West,98270,STO-686F50
+United States,Oregon,Salem,West,97301,STO-12BED8
+United States,Texas,Laredo,Central,78041,STO-5B5EA3
+United States,Texas,Dallas,Central,75217,STO-68B6AA
+United States,Ohio,Grove City,East,43123,STO-1AEFD8
+United States,New York,New York City,East,10011,STO-7E8DC6
+United States,Michigan,Dearborn,Central,48126,STO-6EF651
+United States,Georgia,Warner Robins,South,31088,STO-592A48
+United States,California,Vallejo,West,94591,STO-A7DF69
+United States,California,Mission Viejo,West,92691,STO-EF1673
+United States,Michigan,Rochester Hills,Central,48307,STO-30C9DC
+United States,New Jersey,Plainfield,East,7060,STO-AFE037
+United States,Arizona,Sierra Vista,West,85635,STO-487E38
+United States,Washington,Vancouver,West,98661,STO-CC3F25
+United States,Illinois,Aurora,Central,60505,STO-E04261
+United States,Texas,Arlington,Central,76017,STO-C5675B
+United States,Kentucky,Louisville,South,40214,STO-CA19AE
+United States,Texas,Dallas,Central,75081,STO-9F12AD
+United States,Ohio,Cleveland,East,44105,STO-D9CAFB
+United States,Texas,Tyler,Central,75701,STO-6A8AFB
+United States,North Carolina,Burlington,South,27217,STO-78165B
+United States,Virginia,Waynesboro,South,22980,STO-822A95
+United States,Pennsylvania,Chester,East,19013,STO-80B308
+United States,North Carolina,Cary,South,27511,STO-311F8F
+United States,Florida,Palm Coast,South,32137,STO-E17108
+United States,New York,Mount Vernon,East,10550,STO-3120C7
+United States,Michigan,Detroit,Central,48205,STO-40253E
+United States,Florida,Hialeah,South,33012,STO-D80D2D
+United States,New York,Oceanside,East,11572,STO-BDB06E
+United States,California,San Diego,West,92105,STO-50A1AE
+United States,Illinois,Evanston,Central,60201,STO-14D5A6
+United States,Michigan,Trenton,Central,48183,STO-EE9181
+United States,Minnesota,Cottage Grove,Central,55016,STO-1C5DF1
+United States,Louisiana,Bossier City,South,71111,STO-3C6674
+United States,Iowa,Des Moines,Central,50315,STO-C1BBCB
+United States,California,Lancaster,West,93534,STO-1801BB
+United States,Virginia,Richmond,South,23223,STO-0B45A7
+United States,North Carolina,Asheville,South,28806,STO-70B11B
+United States,California,Lake Elsinore,West,92530,STO-119DDC
+United States,Nebraska,Omaha,Central,68104,STO-33F3AC
+United States,Washington,Edmonds,West,98026,STO-C2E574
+United States,California,Santa Ana,West,92704,STO-0C7D01
+United States,Wisconsin,Milwaukee,Central,53209,STO-18FF46
+United States,Kentucky,Florence,South,41042,STO-B3D3BD
+United States,Ohio,Lorain,East,44052,STO-033EBB
+United States,New Jersey,Linden,East,7036,STO-DA3E1D
+United States,California,Salinas,West,93905,STO-EE9D55
+United States,New Jersey,New Brunswick,East,8901,STO-AEE648
+United States,Pennsylvania,Lancaster,East,17602,STO-C0B911
+United States,New Hampshire,Concord,East,3301,STO-A1D66C
+United States,Maryland,Columbia,East,21044,STO-F8F4EB
+United States,Texas,Garland,Central,75043,STO-A083A6
+United States,Connecticut,Norwich,East,6360,STO-7A3D26
+United States,Virginia,Alexandria,South,22304,STO-92BCA9
+United States,Ohio,Toledo,East,43615,STO-BB7C4E
+United States,New Mexico,Farmington,West,87401,STO-1076E4
+United States,California,Riverside,West,92503,STO-23F141
+United States,California,Torrance,West,90503,STO-894C8A
+United States,Texas,Round Rock,Central,78664,STO-283695
+United States,California,Oceanside,West,92054,STO-8272C8
+United States,Florida,Boca Raton,South,33433,STO-876173
+United States,Virginia,Virginia Beach,South,23464,STO-56CFF1
+United States,California,Murrieta,West,92563,STO-155386
+United States,North Carolina,Jacksonville,South,28540,STO-5C3E93
+United States,Iowa,Burlington,Central,52601,STO-111BAC
+United States,Washington,Olympia,West,98502,STO-C58261
+United States,District of Columbia,Washington,East,20016,STO-1C1C66
+United States,Missouri,Jefferson City,Central,65109,STO-2EAF2C
+United States,Missouri,Saint Peters,Central,63376,STO-86CFC1
+United States,Illinois,Rockford,Central,61107,STO-FD3964
+United States,Florida,Miami,South,33142,STO-3F5098
+United States,Texas,Brownsville,Central,78521,STO-44C62B
+United States,New York,Yonkers,East,10701,STO-35885B
+United States,California,Oakland,West,94601,STO-BF1F81
+United States,North Carolina,Monroe,South,28110,STO-B60638
+United States,Maryland,Clinton,East,20735,STO-487B31
+United States,California,Encinitas,West,92024,STO-F21DE4
+United States,Georgia,Roswell,South,30076,STO-43CEFB
+United States,Arkansas,Jonesboro,South,72401,STO-F458AB
+United States,Indiana,Richmond,Central,47374,STO-EF594E
+United States,California,Antioch,West,94509,STO-850916
+United States,Florida,Homestead,South,33030,STO-601DBC
+United States,Indiana,La Porte,Central,46350,STO-ADE57E
+United States,Michigan,Lansing,Central,48911,STO-BBB924
+United States,Ohio,Cuyahoga Falls,East,44221,STO-80D34A
+United States,Nevada,Reno,West,89502,STO-14FF2A
+United States,Virginia,Harrisonburg,South,22801,STO-3765B3
+United States,California,Escondido,West,92025,STO-47F322
+United States,Michigan,Royal Oak,Central,48073,STO-10BCBB
+United States,Maryland,Rockville,East,20852,STO-676DF5
+United States,Florida,Coral Springs,South,33065,STO-D7F697
+United States,New York,Buffalo,East,14215,STO-904A7F
+United States,Florida,Boynton Beach,South,33437,STO-DA6812
+United States,Mississippi,Gulfport,South,39503,STO-698B81
+United States,California,Fresno,West,93727,STO-F27E3F
+United States,North Carolina,Greenville,South,27834,STO-48E3A0
+United States,New York,Long Beach,East,11561,STO-1C2625
+United States,Alabama,Florence,South,35630,STO-7074BE
+United States,Georgia,Macon,South,31204,STO-C8F810
+United States,Iowa,Cedar Rapids,Central,52402,STO-CE13D6
+United States,Rhode Island,Providence,East,2908,STO-532D1F
+United States,Colorado,Pueblo,West,81001,STO-67260A
+United States,California,Fairfield,West,94533,STO-7B8695
+United States,Florida,Deltona,South,32725,STO-2F53F1
+United States,Kentucky,Murray,South,42071,STO-8671CD
+United States,Connecticut,Middletown,East,6457,STO-834BCA
+United States,New York,Freeport,East,11520,STO-57DAA2
+United States,California,Pico Rivera,West,90660,STO-BF48BB
+United States,Utah,Provo,West,84604,STO-7FCFD5
+United States,Utah,Pleasant Grove,West,84062,STO-FF52E7
+United States,Georgia,Smyrna,South,30080,STO-81E239
+United States,Virginia,Salem,South,24153,STO-FE534A
+United States,Ohio,Parma,East,44134,STO-2B6DCB
+United States,Alabama,Mobile,South,36608,STO-03015B
+United States,Massachusetts,New Bedford,East,2740,STO-4E8616
+United States,Texas,Irving,Central,75061,STO-557CC7
+United States,New Jersey,Vineland,East,8360,STO-001A72
+United States,Arizona,Glendale,West,85301,STO-79A7BF
+United States,New York,Niagara Falls,East,14304,STO-AB123B
+United States,North Carolina,Thomasville,South,27360,STO-F1E756
+United States,California,Westminster,West,92683,STO-26BD37
+United States,Tennessee,Jackson,South,38301,STO-B99CC3
+United States,Texas,Coppell,Central,75019,STO-31F22E
+United States,California,Pomona,West,91767,STO-C01FD4
+United States,Nevada,North Las Vegas,West,89031,STO-882A92
+United States,Pennsylvania,Allentown,East,18103,STO-310454
+United States,Delaware,Newark,East,19711,STO-927092
+United States,Arizona,Tempe,West,85281,STO-F7D7A6
+United States,California,Laguna Niguel,West,92677,STO-849B53
+United States,New Jersey,Bridgeton,East,8302,STO-1B0E1F
+United States,Massachusetts,Everett,East,2149,STO-4377E6
+United States,New York,Watertown,East,13601,STO-45F6F5
+United States,Wisconsin,Appleton,Central,54915,STO-A26E0A
+United States,Washington,Bellevue,West,98006,STO-431388
+United States,Texas,Allen,Central,75002,STO-BA28B4
+United States,Texas,El Paso,Central,79907,STO-35E7C0
+United States,Texas,Grapevine,Central,76051,STO-0477B4
+United States,Texas,Carrollton,Central,75007,STO-61962D
+United States,Tennessee,Smyrna,South,37167,STO-13D9EE
+United States,Washington,Kent,West,98031,STO-CDC4B6
+United States,Louisiana,Lafayette,South,70506,STO-C7FF65
+United States,Oregon,Tigard,West,97224,STO-9C85B5
+United States,Illinois,Skokie,Central,60076,STO-33E78F
+United States,Texas,Plano,Central,75023,STO-A41B42
+United States,Virginia,Suffolk,South,23434,STO-835ACC
+United States,Indiana,Indianapolis,Central,46203,STO-CA7374
+United States,New Jersey,Bayonne,East,7002,STO-CBA32C
+United States,North Carolina,Fayetteville,South,28314,STO-0AEA2F
+United States,North Carolina,Greensboro,South,27405,STO-1009E4
+United States,Maryland,Baltimore,East,21215,STO-BC44DC
+United States,Wisconsin,Kenosha,Central,53142,STO-FCE637
+United States,Kansas,Olathe,Central,66062,STO-D5CF98
+United States,Washington,Auburn,West,98002,STO-7163EC
+United States,Oklahoma,Tulsa,Central,74133,STO-398839
+United States,Oregon,Redmond,West,97756,STO-AA642F
+United States,North Carolina,Raleigh,South,27604,STO-D0F580
+United States,Oklahoma,Muskogee,Central,74403,STO-823567
+United States,Connecticut,Meriden,East,6450,STO-D2D43E
+United States,Kentucky,Bowling Green,South,42104,STO-00590D
+United States,Indiana,South Bend,Central,46614,STO-4AAC36
+United States,Connecticut,Bristol,East,6010,STO-730170
+United States,Nevada,Henderson,West,89015,STO-C8C961
+United States,Washington,Spokane,West,99207,STO-3EE931
+United States,Texas,Keller,Central,76248,STO-29EFFF
+United States,Ohio,Fairfield,East,45014,STO-B8420B
+United States,Florida,Port Orange,South,32127,STO-8C585E
+United States,Oregon,Medford,West,97504,STO-701B01
+United States,Virginia,Charlottesville,South,22901,STO-AA8CC6
+United States,Montana,Missoula,West,59801,STO-8D3FC8
+United States,Florida,Miami,South,33178,STO-F12229
+United States,South Carolina,Florence,South,29501,STO-1B34E7
+United States,Oregon,Springfield,West,97477,STO-8E3E7B
+United States,Florida,Apopka,South,32712,STO-CD2E5F
+United States,Pennsylvania,Reading,East,19601,STO-1B1BF7
+United States,Colorado,Broomfield,West,80020,STO-F55BBB
+United States,Missouri,Springfield,Central,65807,STO-203B73
+United States,New Jersey,Paterson,East,7501,STO-7B2374
+United States,Oklahoma,Oklahoma City,Central,73120,STO-F0E4CB
+United States,Virginia,Chesapeake,South,23320,STO-8EE2D3
+United States,Texas,Lubbock,Central,79424,STO-DAA339
+United States,Missouri,Columbia,Central,65203,STO-67124B
+United States,Tennessee,Johnson City,South,37604,STO-ECF019
+United States,Alabama,Auburn,South,36830,STO-B03601
+United States,California,San Bernardino,West,92404,STO-FB2EA4
+United States,Massachusetts,Leominster,East,1453,STO-910871
+United States,Montana,Bozeman,West,59715,STO-13631B
+United States,Arizona,Peoria,West,85345,STO-597B1C
+United States,Ohio,Lakewood,East,44107,STO-8A6B03
+United States,New Jersey,Perth Amboy,East,8861,STO-022179
+United States,California,Ontario,West,91761,STO-A4FD47
+United States,California,Rancho Cucamonga,West,91730,STO-13FCF5
+United States,Minnesota,Moorhead,Central,56560,STO-BB1B64
+United States,Texas,Mesquite,Central,75150,STO-183950
+United States,California,Stockton,West,95207,STO-9DA834
+United States,Florida,Ormond Beach,South,32174,STO-7A8AE6
+United States,California,Sunnyvale,West,94086,STO-3F6486
+United States,New Hampshire,Dover,East,3820,STO-8289F7
+United States,Pennsylvania,York,East,17403,STO-2A7AAD
+United States,Texas,College Station,Central,77840,STO-640470
+United States,Missouri,Saint Louis,Central,63116,STO-C23F38
+United States,Massachusetts,Quincy,East,2169,STO-2D2B80
+United States,California,Manteca,West,95336,STO-188155
+United States,Ohio,Kent,East,44240,STO-70A2C2
+United States,Texas,San Angelo,Central,76903,STO-302FC0
+United States,Utah,Salt Lake City,West,84106,STO-E2108A
+United States,Alabama,Huntsville,South,35810,STO-BD4F35
+United States,Tennessee,Knoxville,South,37918,STO-F4C862
+United States,Arkansas,Little Rock,South,72209,STO-6F92A1
+United States,Michigan,Lincoln Park,Central,48146,STO-17141C
+United States,Ohio,Marion,East,43302,STO-449991
+United States,Colorado,Littleton,West,80122,STO-E2B148
+United States,Vermont,Burlington,East,5408,STO-9B765A
+United States,Maine,Bangor,East,4401,STO-F2870A
+United States,Mississippi,Southaven,South,38671,STO-A2F908
+United States,Indiana,New Castle,Central,47362,STO-8D9D48
+United States,Michigan,Midland,Central,48640,STO-B2E676
+United States,South Dakota,Sioux Falls,Central,57103,STO-1A96AD
+United States,Colorado,Fort Collins,West,80525,STO-6416A5
+United States,Indiana,Lafayette,Central,47905,STO-6B0664
+United States,Tennessee,Clarksville,South,37042,STO-6E964E
+United States,California,Sacramento,West,95823,STO-DA78CC
+United States,California,Thousand Oaks,West,91360,STO-B63DFC
+United States,Massachusetts,Malden,East,2148,STO-3BCDBD
+United States,Massachusetts,Holyoke,East,1040,STO-52638F
+United States,New Mexico,Albuquerque,West,87105,STO-73B722
+United States,Nevada,Sparks,West,89431,STO-142610
+United States,California,Coachella,West,92236,STO-03955B
+United States,Illinois,Elmhurst,Central,60126,STO-0A2DF2
+United States,New Jersey,Passaic,East,7055,STO-DAF47E
+United States,South Carolina,North Charleston,South,29406,STO-2D7447
+United States,Virginia,Newport News,South,23602,STO-44A1C7
+United States,New York,Jamestown,East,14701,STO-44AC3B
+United States,Indiana,Mishawaka,Central,46544,STO-7AC0AF
+United States,Ohio,Bowling Green,East,43402,STO-1F54ED
+United States,California,La Quinta,West,92253,STO-6D82E0
+United States,Florida,Tallahassee,South,32303,STO-218396
+United States,Tennessee,Nashville,South,37211,STO-9DC22E
+United States,Washington,Bellingham,West,98226,STO-E406F2
+United States,Illinois,Woodstock,Central,60098,STO-FE3878
+United States,Texas,Haltom City,Central,76117,STO-2728D1
+United States,Illinois,Wheeling,Central,60090,STO-B2DDBE
+United States,South Carolina,Summerville,South,29483,STO-2E6868
+United States,Arkansas,Hot Springs,South,71901,STO-6FA7A2
+United States,Colorado,Englewood,West,80112,STO-614B52
+United States,Ohio,Lancaster,East,43130,STO-E8CC2B
+United States,New Mexico,Las Cruces,West,88001,STO-009CCE
+United States,Alabama,Hoover,South,35244,STO-9B7917
+United States,Texas,Frisco,Central,75034,STO-D617B0
+United States,California,Vacaville,West,95687,STO-4FC5B3
+United States,Utah,Murray,West,84107,STO-3EAAFE
+United States,Wisconsin,Waukesha,Central,53186,STO-B8C267
+United States,California,Bakersfield,West,93309,STO-1CBB33
+United States,Florida,Pompano Beach,South,33068,STO-DC3E31
+United States,Ohio,Troy,East,45373,STO-40A863
+United States,Texas,Corpus Christi,Central,78415,STO-49E141
+United States,California,Redondo Beach,West,90278,STO-6CFD53
+United States,Florida,Orlando,South,32839,STO-5AC90B
+United States,New Jersey,Orange,East,7050,STO-B684CB
+United States,Louisiana,Lake Charles,South,70601,STO-E4637E
+United States,Illinois,Highland Park,Central,60035,STO-E0EDF9
+United States,New York,Hempstead,East,11550,STO-CB9787
+United States,Indiana,Noblesville,Central,46060,STO-C9CA17
+United States,Minnesota,Apple Valley,Central,55124,STO-56BE26
+United States,South Carolina,Mount Pleasant,South,29464,STO-C699EF
+United States,Michigan,Sterling Heights,Central,48310,STO-680E02
+United States,Wisconsin,Eau Claire,Central,54703,STO-144500
+United States,Texas,Pharr,Central,78577,STO-B51FF8
+United States,Montana,Billings,West,59102,STO-4101D2
+United States,Oregon,Gresham,West,97030,STO-EF449A
+United States,Tennessee,Chattanooga,South,37421,STO-49762E
+United States,Idaho,Meridian,West,83642,STO-370D5B
+United States,California,Apple Valley,West,92307,STO-7D5DEA
+United States,Illinois,Bolingbrook,Central,60440,STO-02532F
+United States,Minnesota,Maple Grove,Central,55369,STO-3998FC
+United States,California,Woodland,West,95695,STO-4FFF96
+United States,Texas,Missouri City,Central,77489,STO-534305
+United States,Texas,Pearland,Central,77581,STO-74D8B5
+United States,California,San Mateo,West,94403,STO-1BBF3E
+United States,Michigan,Grand Rapids,Central,49505,STO-224109
+United States,California,Visalia,West,93277,STO-C3B86C
+United States,Kansas,Overland Park,Central,66212,STO-A16269
+United States,California,Temecula,West,92592,STO-6D0F33
+United States,California,Yucaipa,West,92399,STO-DF0488
+United States,Massachusetts,Revere,East,2151,STO-E96EBF
+United States,Texas,Conroe,Central,77301,STO-6D24CB
+United States,Illinois,Tinley Park,Central,60477,STO-04E760
+United States,Iowa,Dubuque,Central,52001,STO-D9EF27
+United States,Michigan,Dearborn Heights,Central,48127,STO-19267E
+United States,New Mexico,Santa Fe,West,87505,STO-D9BC69
+United States,North Carolina,Hickory,South,28601,STO-273406
+United States,Illinois,Carol Stream,Central,60188,STO-93C62A
+United States,Minnesota,Saint Cloud,Central,56301,STO-BE772C
+United States,Florida,North Miami,South,33161,STO-8FBBF3
+United States,Indiana,Lawrence,Central,46226,STO-B591EE
+United States,Florida,Plantation,South,33317,STO-890411
+United States,Florida,Port Saint Lucie,South,34952,STO-B2C9A9
+United States,South Carolina,Rock Hill,South,29730,STO-5D2E9A
+United States,Texas,Odessa,Central,79762,STO-456382
+United States,Wisconsin,West Allis,Central,53214,STO-942653
+United States,California,Chula Vista,West,91911,STO-9EF1BF
+United States,Kansas,Manhattan,Central,66502,STO-8EB7D0
+United States,Pennsylvania,Altoona,East,16602,STO-B545FC
+United States,Colorado,Thornton,West,80229,STO-C93448
+United States,Illinois,Champaign,Central,61821,STO-B28A6A
+United States,Indiana,Bloomington,Central,47401,STO-80C769
+United States,Arkansas,Texarkana,South,71854,STO-F9103F
+United States,Texas,Edinburg,Central,78539,STO-0450F7
+United States,Texas,Baytown,Central,77520,STO-994FB2
+United States,Indiana,Greenwood,Central,46142,STO-7DB21F
+United States,California,Lakewood,West,90712,STO-150224
+United States,Rhode Island,Woonsocket,East,2895,STO-673022
+United States,Wisconsin,Superior,Central,54880,STO-9D924D
+United States,Texas,Bedford,Central,76021,STO-D91CA3
+United States,Washington,Covington,West,98042,STO-444BA0
+United States,Oklahoma,Broken Arrow,Central,74012,STO-FA7D83
+United States,Florida,Miramar,South,33023,STO-222F36
+United States,Florida,Hollywood,South,33021,STO-770555
+United States,Texas,Deer Park,Central,77536,STO-F779A3
+United States,Kansas,Wichita,Central,67212,STO-2A0D0B
+United States,Texas,Mcallen,Central,78501,STO-CB4708
+United States,Iowa,Iowa City,Central,52240,STO-1DB493
+United States,Idaho,Boise,West,83704,STO-E7A8BF
+United States,Rhode Island,Cranston,East,2920,STO-FC42D6
+United States,Illinois,Freeport,Central,61032,STO-7DB0FC
+United States,Texas,Port Arthur,Central,77642,STO-0C93CA
+United States,California,Citrus Heights,West,95610,STO-96AC46
+United States,Texas,The Colony,Central,75056,STO-5BBD2B
+United States,Washington,Redmond,West,98052,STO-441D9F
+United States,Florida,Daytona Beach,South,32114,STO-3C4C71
+United States,Arizona,Bullhead City,West,86442,STO-68C98D
+United States,Indiana,Portage,Central,46368,STO-46159F
+United States,North Dakota,Fargo,Central,58103,STO-2B549D
+United States,Indiana,Elkhart,Central,46514,STO-106EB6
+United States,California,San Gabriel,West,91776,STO-278352
+United States,Florida,Margate,South,33063,STO-EC1C29
+United States,Georgia,Sandy Springs,South,30328,STO-2D5285
+United States,Ohio,Mentor,East,44060,STO-823273
+United States,Oklahoma,Lawton,Central,73505,STO-C49A12
+United States,Virginia,Hampton,South,23666,STO-AA32A1
+United States,New York,Rome,East,13440,STO-4395E0
+United States,Wisconsin,La Crosse,Central,54601,STO-52C1C0
+United States,Idaho,Lewiston,West,83501,STO-21215C
+United States,Mississippi,Hattiesburg,South,39401,STO-3F5607
+United States,California,Danville,West,94526,STO-145AD2
+United States,Michigan,Mount Pleasant,Central,48858,STO-737400
+United States,Utah,Logan,West,84321,STO-850E0D
+United States,Connecticut,Waterbury,East,6708,STO-B0AC07
+United States,Georgia,Athens,South,30605,STO-671399
+United States,Maine,Lewiston,East,4240,STO-89D073
+United States,Illinois,Danville,Central,61832,STO-9180E6
+United States,Arizona,Avondale,West,85323,STO-508E83
+United States,Georgia,Marietta,South,30062,STO-C44450
+United States,Arizona,Yuma,West,85364,STO-BD1975
+United States,Wisconsin,Wausau,Central,54401,STO-36C7F4
+United States,Washington,Pasco,West,99301,STO-0BFDF7
+United States,Illinois,Oak Park,Central,60302,STO-DAA299
+United States,Florida,Pensacola,South,32503,STO-B7DBB6
+United States,Texas,League City,Central,77573,STO-0F2C52
+United States,Maryland,Gaithersburg,East,20877,STO-43C07F
+United States,Utah,Lehi,West,84043,STO-9A6486
+United States,Alabama,Tuscaloosa,South,35401,STO-639616
+United States,California,Moreno Valley,West,92553,STO-DD6CCF
+United States,Kentucky,Georgetown,South,40324,STO-02E871
+United States,Colorado,Loveland,West,80538,STO-C926BC
+United States,Arizona,Chandler,West,85224,STO-DAC44A
+United States,Montana,Helena,West,59601,STO-321B0F
+United States,Missouri,Kirkwood,Central,63122,STO-AB8A0E
+United States,Texas,Waco,Central,76706,STO-1B400A
+United States,Michigan,Roseville,Central,48066,STO-4F0E07
+United States,Illinois,Frankfort,Central,60423,STO-F9E7A5
+United States,Pennsylvania,Bethlehem,East,18018,STO-FD679C
+United States,Minnesota,Roseville,Central,55113,STO-C872DE
+United States,Nebraska,Grand Island,Central,68801,STO-6E84BA
+United States,Minnesota,Woodbury,Central,55125,STO-FBD2C2
+United States,Michigan,Oak Park,Central,48237,STO-4B4931
+United States,Arkansas,Rogers,South,72756,STO-F2374A
+United States,New Mexico,Clovis,West,88101,STO-FEAA7E
+United States,Florida,Jupiter,South,33458,STO-E1CC9E
+United States,California,Santa Barbara,West,93101,STO-82CB6A
+United States,Texas,Cedar Hill,Central,75104,STO-03F82A
+United States,Nebraska,Norfolk,Central,68701,STO-69F3EF
+United States,Utah,Draper,West,84020,STO-6BCBAE
+United States,Michigan,Ann Arbor,Central,48104,STO-02C09F
+United States,California,La Mesa,West,91941,STO-9167C7
+United States,Idaho,Pocatello,West,83201,STO-C768DA
+United States,Michigan,Holland,Central,49423,STO-EE01A9
+United States,Connecticut,Milford,East,6460,STO-403746
+United States,Illinois,Buffalo Grove,Central,60089,STO-CA8DA4
+United States,California,Lake Forest,West,92630,STO-B13941
+United States,California,Redding,West,96003,STO-89951F
+United States,California,Chico,West,95928,STO-C1BC7D
+United States,New York,Utica,East,13501,STO-3F4659
+United States,Arkansas,Conway,South,72032,STO-B79A9F
+United States,Wyoming,Cheyenne,West,82001,STO-F86F80
+United States,Kentucky,Owensboro,South,42301,STO-24A012
+United States,Idaho,Caldwell,West,83605,STO-EF094B
+United States,Louisiana,Kenner,South,70065,STO-818FFF
+United States,New Hampshire,Nashua,East,3060,STO-103526
+United States,Tennessee,Bartlett,South,38134,STO-646A0F
+United States,California,Redwood City,West,94061,STO-073C13
+United States,Tennessee,Lebanon,South,37087,STO-403A89
+United States,California,Santa Maria,West,93454,STO-4C264A
+United States,Illinois,Des Plaines,Central,60016,STO-BC595C
+United States,Washington,Longview,West,98632,STO-FF99B6
+United States,Tennessee,Hendersonville,South,37075,STO-0BA488
+United States,Iowa,Waterloo,Central,50701,STO-9F036F
+United States,Massachusetts,Cambridge,East,2138,STO-681357
+United States,Illinois,Palatine,Central,60067,STO-EA1885
+United States,Massachusetts,Beverly,East,1915,STO-72552B
+United States,Oregon,Eugene,West,97405,STO-924BDB
+United States,California,Oxnard,West,93030,STO-0D3459
+United States,Washington,Renton,West,98059,STO-59D3EC
+United States,Illinois,Glenview,Central,60025,STO-46DD97
+United States,Florida,Delray Beach,South,33445,STO-669760
+United States,Colorado,Commerce City,West,80022,STO-D8B5E1
+United States,Texas,Texas City,Central,77590,STO-799A59
+United States,North Carolina,Wilson,South,27893,STO-CB5904
+United States,New Mexico,Rio Rancho,West,87124,STO-96CE30
+United States,North Carolina,Goldsboro,South,27534,STO-BA6762
+United States,Washington,Everett,West,98208,STO-EA3955
+United States,California,Montebello,West,90640,STO-C26AD1
+United States,California,El Cajon,West,92020,STO-23EDDE
+United States,Texas,Beaumont,Central,77705,STO-5582C9
+United States,Florida,West Palm Beach,South,33407,STO-6EC870
+United States,Texas,Abilene,Central,79605,STO-8C1FE4
+United States,Illinois,Normal,Central,61761,STO-E9F915
+United States,Missouri,Saint Charles,Central,63301,STO-CE0E9B
+United States,Illinois,Saint Charles,Central,60174,STO-704FFA
+United States,California,Camarillo,West,93010,STO-7EE3C3
+United States,Oregon,Hillsboro,West,97123,STO-730812
+United States,California,Burbank,West,91505,STO-863EDB
+United States,California,Modesto,West,95351,STO-8CEE3D
+United States,Kansas,Garden City,Central,67846,STO-F55CF5
+United States,New Jersey,Atlantic City,East,8401,STO-458615
+United States,Colorado,Longmont,West,80501,STO-BAB002
+United States,California,Davis,West,95616,STO-7A6348
+United States,West Virginia,Wheeling,East,26003,STO-9C42CF
+United States,California,Morgan Hill,West,95037,STO-FB2D9A
+United States,New Jersey,Clifton,East,7011,STO-642E99
+United States,Wisconsin,Sheboygan,Central,53081,STO-759CCB
+United States,Georgia,East Point,South,30344,STO-3B831A
+United States,South Dakota,Rapid City,Central,57701,STO-8D9722
+United States,Massachusetts,Andover,East,1810,STO-9EF1DB
+United States,Florida,Kissimmee,South,34741,STO-78249A
+United States,Connecticut,Shelton,East,6484,STO-E1C287
+United States,Connecticut,Danbury,East,6810,STO-4EDAE9
+United States,Iowa,Marion,Central,52302,STO-1DFBC5
+United States,Florida,Sanford,South,32771,STO-B55E3D
+United States,Texas,San Marcos,Central,78666,STO-D57CBE
+United States,Colorado,Greeley,West,80634,STO-E02319
+United States,Texas,Mansfield,Central,76063,STO-5D9B6C
+United States,Ohio,Elyria,East,44035,STO-E63313
+United States,Idaho,Twin Falls,West,83301,STO-F95F36
+United States,Florida,Coral Gables,South,33134,STO-541CDE
+United States,Illinois,Romeoville,Central,60441,STO-F14E83
+United States,Massachusetts,Marlborough,East,1752,STO-760F1E
+United States,Maryland,Laurel,East,20707,STO-CB198F
+United States,Texas,Bryan,Central,77803,STO-60E533
+United States,Arkansas,Pine Bluff,South,71603,STO-7325EB
+United States,South Dakota,Aberdeen,Central,57401,STO-BF7641
+United States,Maryland,Hagerstown,East,21740,STO-C71A38
+United States,New Jersey,East Orange,East,7017,STO-B99D1F
+United States,Illinois,Arlington Heights,Central,60004,STO-05B96A
+United States,Illinois,Oswego,Central,60543,STO-5AD134
+United States,Minnesota,Coon Rapids,Central,55433,STO-0B38CD
+United States,California,San Clemente,West,92672,STO-EEAB53
+United States,California,Dublin,West,94568,STO-A7BA92
+United States,California,San Luis Obispo,West,93405,STO-C8D3D1
+United States,Arkansas,Springdale,South,72762,STO-359195
+United States,California,Lodi,West,95240,STO-E5907F
+United States,Texas,La Porte,Central,77571,STO-BD2BCC
+United States,Ohio,Mason,East,45040,STO-B88A64
+United States,Georgia,Woodstock,South,30188,STO-33AFC2
