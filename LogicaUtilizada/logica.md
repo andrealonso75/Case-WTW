@@ -10,4 +10,5 @@
 5. fact_orders
 - As tabelas prontas foram salvas em csv dentro da pasta processado/store_split.
 - Agora vem a parte de fazer a integração com o banco de dados. Para esse case usei o PostgreSQL. A integração é feita no mesmo notebook em Python e manda cada uma das tabelas atualizadas para o banco.
-- 
+<img src="/baseDados.jpg">
+
