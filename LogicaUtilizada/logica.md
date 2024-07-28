@@ -21,7 +21,10 @@
 
 # Resumo
 
-- Andre, por que você não fez via SQL como era pedido, devem estar perguntando. Acabei indo mais no caminho de Python que SQL em si. Para essa tarefa, talvez deva ter sido um caminho mais fácil a ser seguido. Penso que a entrega final talvez seja mais interessante que os meios. A entrega final levei em consideração era ter os dados dentro do banco e replicado no Power BI.
+- Andre, por que você não fez via SQL como era pedido, devem estar perguntando. Acabei indo mais no caminho de Python que SQL em si. Para essa tarefa, talvez deva ter sido um caminho mais fácil a ser seguido. Penso que a entrega final talvez seja mais interessante que os meios. A entrega final levei em consideração era ter os dados dentro do banco e replicado no Power BI. Levar isso em consideração em qualquer projeto é muito importante.
+# Entrada - Enviar os dados para o banco de dados
+# Workflow - Levar os dados para o banco de dados
+# Saída - Painel informativo e dinâmico dos dados que estão disponíveis.
   
 ## As etapas no geral foram:
   1. Análise descritiva da tabela e suas informações (não estava no escopo) 
@@ -30,3 +33,5 @@
   4. Criação das tabelas de dimensão e fato a partir da tabela_mestre
   5. Criação do banco de dados
   6. Visualização dos dados
+
+
